@@ -28,3 +28,5 @@ Overall, this task helped me gain practical experience in API integration, data 
 
 ##OUTPUT 
 
+<img width="1781" height="889" alt="Image" src="https://github.com/user-attachments/assets/757e8d51-1379-46f0-a838-fd3effba39d3" />
+
